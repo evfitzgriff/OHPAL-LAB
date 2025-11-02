@@ -337,7 +337,7 @@ export default function Page() {
       {/* Initiatives */}
       <Section
         id="initiatives"
-        eyebrow="Research to Acition"
+        eyebrow="Research to Action"
         title="Flagship initiatives"
         subtitle="Core efforts you can collaborate on, fund, and help scale for impact."
       >
