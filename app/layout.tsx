@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "OHPAL Living Laboratory",
+  title: "OHPAL Lab",
   description: "Community-led One Health for resilient pastoral futures",
 };
 
